@@ -1,0 +1,57 @@
+[
+  {
+    "price": 10,
+    "name": "Normal fiber cable",
+    "NetSpeed": "10 Mbps",
+    "image": "https://www.svgrepo.com/show/28222/speedometer.svg",
+    "DetailsImage": "https://vasexperts.com/wp-content/uploads/2021/07/5-steps-to-become-isp.jpg",
+    "Description": "This plan is for budget user if you add extra $2 you can use it with opticale cable",
+    "context": "Up To"
+  },
+  {
+    "price": 50,
+    "name": "Normal optical cable",
+    "NetSpeed": "30 Mbps",
+    "image": "https://www.svgrepo.com/show/28222/speedometer.svg",
+    "DetailsImage": "https://www.rswebsols.com/wp-content/uploads/2016/05/data-transfer-lan-internet-connection-cable-port.jpg",
+    "Description": "This plane is with optical cable & a efficiant amount of net speed suitable for students & Normal hoome users",
+    "context": "Up To"
+  },
+  {
+    "price": 100,
+    "name": "Medium Speed Brodband",
+    "NetSpeed": "100 Mbps",
+    "image": "https://www.svgrepo.com/show/28222/speedometer.svg",
+    "DetailsImage": "https://i0.wp.com/www.signalfox.com.au/wp-content/uploads/2018/10/Happy-Internet-Family_sml.jpg",
+    "Description": "The plan is suitable for normal Esports gamers & streamers & normal content consumers",
+    "context": "Up To"
+  },
+  {
+    "price": 200,
+    "name": "Gaming Package",
+    "NetSpeed": "200 Mbps",
+    "image": "https://www.svgrepo.com/show/28222/speedometer.svg",
+    "DetailsImage": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGdhbWluZyUyMHdpdGglMjBwYXJ0bmVyfGVufDB8fHx8MTY0NTQ4NDQzOA&ixlib=rb-1.2.1&q=80&w=2000",
+    "Description": "This plan is for havy gamers, streamers Netflix,Amzone Prime, Online Content Consumers",
+    "context": "Up To"
+  },
+  {
+    "price": 300,
+    "name": "Performance Package",
+    "NetSpeed": "500 Mbps",
+    "image": "https://www.svgrepo.com/show/28222/speedometer.svg",
+    "DetailsImage": "https://www.elite.net.bd/wp-content/uploads/2022/06/Top-100Mbps-Internet-Service-Provider-in-Dhaka-1024x576.png",
+    "Description": "This is plan is for professional workload, Artist, small Companies extra amount sof people",
+    "context": "Up To"
+  },
+  {
+    "price": 500,
+    "name": "Professional Surfacing",
+    "NetSpeed": "1 Gbps",
+    "image": "https://www.svgrepo.com/show/28222/speedometer.svg",
+    "DetailsImage": "https://eoms.cutpricebd.com/oms_products/big/61e6bf744974b10685_166.png",
+    "Description": "This plan is for immersive browsing, gaming, Higher ammount of net consumption",
+    "context": "Up To"
+  }
+
+]
